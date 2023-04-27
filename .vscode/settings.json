@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\diak\\Desktop\\Laczkó H\\library\\library\\JUnit5\\junit-platform-console-standalone-1.9.2.jar",
+        "c:\\Users\\diak\\Desktop\\Laczkó H\\library\\library\\JUnit5\\mariadb-java-client-2.7.6.jar"
+    ]
+}
